@@ -53,9 +53,9 @@
     </header>
     <section>
         <h2>Let's Connect</h2>
-        <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+        <p>Email: <a href="charles.castillo552@gmail.com">youremail@example.com</a></p>
         <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
-        <p>LinkedIn: <a href="https://linkedin.com/in/yourusername">linkedin.com/in/yourusername</a></p>
+        
     </section>
 </body>
 </html>
