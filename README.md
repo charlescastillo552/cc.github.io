@@ -50,8 +50,8 @@
     </header>
     <section>
         <h2>Let's Connect</h2>
-        <p>Email: <a href="charles.castillo552@gmail.com">charles.castillo552@gmail.com</a></p>
-        <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+        <p>Email: <a href="mailto:youremail@example.com">charles.castillo552@gmail.com</a></p>
+        <p>GitHub: <a href="https://github.com/yourusername">charlescastillo552</a></p>
         
     </section>
 </body>
