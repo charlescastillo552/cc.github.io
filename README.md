@@ -8,8 +8,8 @@
 </head>
 <body>
     <header>
-        <h1>Charles Castillo [Your Full Name]</h1>
-        <h2>Bachelor of Science in [Your Specialization]</h2>
+        <h1>Charles Castillo </h1>
+        <h2>Bachelor of Computer Science </h2>
         <p>University of Perpetual Help System - First Year</p>
     </header>
     <section>
