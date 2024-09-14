@@ -31,8 +31,7 @@
     </header>
     <section>
         <h2>My Accomplishments</h2>
-        <p>In high school, I won awards and completed projects like. These accomplishments inspired me to pursue [your field of interest].</p>
-        <img src="path_to_your_image.jpg" alt="Project Screenshot">
+        <p>In high school, I won awards and completed projects like. These accomplishments inspired me to pursue [your field of interest].</p
     </section>
 </body>
 </html>
